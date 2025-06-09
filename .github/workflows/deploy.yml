@@ -1,4 +1,4 @@
-name: Deploy Astroid Docs to GitHub Pages
+name: Deploy TemPlaza Framework Docs to GitHub Pages
 
 on:
   push:
