@@ -1,13 +1,11 @@
 ---
 sidebar_position: 4
 ---
-
 # Import multiple themes
 
 If you buy Auto Showroom license, you'll have a chance to install other premium themes included in the package, such as Autobike, Amanus, Plazart.
 
 ## Install a sub-theme
-
 
 ![Import Demo](./img/import-demo.avif)
 
@@ -32,10 +30,9 @@ The import is on the progress. You should wait until it's completed.
 
 ## Import Data Package Manually
 
-Here below is an instruction on how to import the demo content with XML file that is included in each theme package. 
+Here below is an instruction on how to import the demo content with XML file that is included in each theme package.
 
 - Go to wp-admin -> Tools -> Import -> WordPress (Run Importer)
-
 - Choose import file and click “Upload file and import”
 
 ![Import Success](./img/manual-import.avif)
