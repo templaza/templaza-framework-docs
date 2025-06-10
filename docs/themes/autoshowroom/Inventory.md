@@ -19,3 +19,19 @@ Please go to Auto Showroom Options > Templates > Layout Inventory > Layout > Edi
 ![Edit sidebar in the layout](img/edit-sidebar-element-in-layout.jfif)
 
 ![Choose a wưwidget for the sidebar](img/choose-widget-for-sidebar.jfif)
+
+You can move the sidebar element to any position you want in the layout by dragging and dropping the element.
+## Change Inventory Permalink
+To change the permalink of the Inventory page, you can go to Wp-admin > Settings > Permarlinks > Optional > Edit Advanced Product archive slug. 
+![Change Inventory Slug](img/change-inventory-permalink-slug.jfif)
+
+Then go to Appearance > Menus > Edit the main menu > Toggle Inventory menu item > Change the custom link according to the newly changed slug above.
+
+Ex: Advanced Product archive slug is set "ap-product"  default, if you change it to "inventory" then
+the product url will be: http://www.yourdomain.com/inventory/product-1
+
+## Pricing & Currency Setting
+To change the currency for advanced products, you're supposed to go to WP-admin > Advanced Products > Settings > General tab
+Here you can choose a currency symbol, symbol placement, thousand separators, decimal separators, and number of decimals.
+
+![Inventory currency settings](img/inventory-currency-setting.png)
