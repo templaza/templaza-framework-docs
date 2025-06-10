@@ -1,22 +1,21 @@
 
 # Inventory
+## Inventory Page Assignment
 We built the inventory data with Advanced Products plugin, so you should make sure this plugin is installed on your site.
+To have an inventory page, you're supposed to go to Pages > Add New > Create a new page for Inventory.
 
-## 1. Create product branches
-**Creating a product branch is compulsory**, so you should not miss this step. Please go to WP-admin > Advanced Products > Branch.
+In the right sidebar, you will see TemPlaza Style option, and you should choose the Inventory style for the inventory page.
+After that, go to WP-admin > Advanced Products > Settings > Choose an inventory page.
 
-On the left, you will see a form to create a new branch, let's enter the branch name and other info. 
+![Choose inventory page](img/choose-inventory-page.png)
 
-Group field assignment: you should assign the branch to one or more custom group fields that are (are) created in the Custom Group Field section. 
+## Inventory Product Filter
+You should go to Appearance > Widgets > Edit the Inventory widget.
+The inventory filter was created with TemPlaza - Advanced Products Filter which allows you to add different advanced products filters according to custom fields (ex: Branch, Make, Model, Manufacturer, Price, Year and so on). 
 
-![Add Branch](./img/add-branch.jpeg)
+![Inventory sidebar](img/autoshowroom-inventory-widget.png)
+### Configure the Inventory sidebar in the layout
+Please go to Auto Showroom Options > Templates > Layout Inventory > Layout > Edit the sidebar and assign it to the inventory widget.
+![Edit sidebar in the layout](img/edit-sidebar-element-in-layout.jfif)
 
-## 2. Create custom field groups
-Advanced Products uses field groups to attach fields to each product. 
-
-* Please go to WP-admin > Advanced Products > Custom Field Group 
-
-* You will see a form on the left to create a new Field Group. Enter the name of the field group and other info. 
-
-* Associated Branch: Select one or more branches that connect with the field groups. 
-
+![Choose a wưwidget for the sidebar](img/choose-widget-for-sidebar.jfif)
