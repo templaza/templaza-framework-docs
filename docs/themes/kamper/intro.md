@@ -1,20 +1,18 @@
 ---
 sidebar_position: 1
 ---
-# Vonux Document
+# Kamper Document
 
-**Vonux - Electric Car & Charging Station WordPress Theme**
+**Kamper - Camping, Travel & Tour Booking WordPress Theme**
 
-![screenshot](./img/screenshot.avif)
+![screenshot](./img/screenshot.png)
 
-Vonux is a stunning and flexible Wordpress theme intentionally designed for Electric vehicles, charging stations, EV startups, vehicle showrooms, rental services, and dealership.
-Coming with a fully responsive design, the theme will help you to create a beautiful and professional website that adapts to various devices. 
+Kamper is a modern and alluring Camping & Adventure WordPress Theme designed for camping, and campground, glamping, adventure, outdoor travel companies, rent camping facility services, hiking agencies. This theme comes with 12 beautiful demos homepages and other useful inner pages, as well as essential features ready to launch all sorts of camping sites.
 
-Vonux is based on a flexible and powerful framework that offers custom-made settings, drag & drop layout builder, header and footer builder. 
+Thanks to the support of the Advanced Product plugin, you will find it easy to manage accommodations with a booking system for booking a vacation, as well as payment options that help users book any tour or camping accommodation they want. Built with Elementor plugin helps you to build any layout easily and quickly. The theme is compatible with Woocommerce which allows you to set up an online store of hiking equipment, and accessories.
 
-Thanks to the Elementor compatibility, you can set up stunning pages easily according to your creativity without touching the code. You will find a wide range of prebuilt demo layouts that provide you with a quick web creation. 
+It's based on the robust TemPlaza Framework and made it fully responsive, so that your website will look beautiful and stable on any device. It contains all the features required for camping booking sites. Let’s create your awesome online presence with our Kamper – Camping & Travel Booking WordPress Theme.
 
-Advanced Products is an important plugin that provides you with all necessary features to create and manage electric vehicles. There are different styles to showcase products, and services, as well as helpful options ready at your fingertips.
 
 ## Installation & Demo Import
 
