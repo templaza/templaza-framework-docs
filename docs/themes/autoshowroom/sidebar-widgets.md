@@ -59,6 +59,26 @@ For others, you should go to Auto Showroom Options > Templates > edit the corres
 
 ![assign-widget-in-layout.jfif](img/assign-widget-in-layout.jfif)
 
+# Add a sidebar in a layout
+
+To create a new sidebar, you should go to Autoshowroom Options > Templates > Open your template (ex: Shop layout template) > Layout
+In the content area section, edit the grid layout
+Choose one of the available grid layouts or you can customize a layout according to your needs. 
+
+![edit-grid-layout.jpg](img/edit-grid-layout.jpg)
+
+![select-grid-layout.jpg](img/select-grid-layout.jpg)
+
+Click + to add a new element to the column, then a popup appears and shows you an element panel.
+Select the Sidebar element to add it to the column.
+
+![add-sidebar-column.jpg](img/add-sidebar-column.jpg)
+
+![choose-sidebar-element.jpg](img/choose-sidebar-element.jpg)
+
+After adding the sidebar element, you can start editing the sidebar and assign a widget to it. 
+
+
 
 
 
