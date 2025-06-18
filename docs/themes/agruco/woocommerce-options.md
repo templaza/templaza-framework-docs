@@ -3,13 +3,13 @@ sidebar_position: 6
 ---
 # Woocommerce Options
 
-## I. Create product data
+## Create product data
 
 The theme supports Woocommerce plugin that is so helpful for you to create your own online store.
 
 Please go to Dashboard > Products > Add New
 
-## II. Configure shop options
+## Configure shop options
 
 Go to Dashboard > Agruco Options > Settings > Woocommerce Options
 Here you can see different options to configure Product Catalog, Product Loop, Related Products, Product Notifications and so on.
@@ -113,7 +113,7 @@ Recently Viewed Products for WooCommerce displays the products recently viewed b
 * Load With Ajax
 * Hide Empty Products
 * Display on page: select a page that recently viewed products will be displayed on
-* Recently Viewed Title: edit the title “Recently Viewed”
+* Recently Viewed Title: edit the title "Recently Viewed"
 * Read more text: add a read more text if needed
 * Read more url: add a read more url if needed
 * Recently viewed columns: set the number of recently viewed products columns
@@ -128,7 +128,7 @@ Product badges can enhance a customer’s understanding of a product’s main se
 * Product Badges: enable or disable
 * Enable Sale Badge: enable the option if you want to display a badge for sale products
 * Badges Sale type: choose a badge type for sale products (Percent, text or both)
-* Badge Sale text: enter the badge sale text (Use {%} to display discount percent, {$} to display discount amount.)
+* Badge Sale text: enter the badge sale text `(Use {%} to display discount percent, {$} to display discount amount.)`
 * Enable New Badge: enable a badge for new products
 * Badge New text: enter badge text for new products
 * Product Newness: Display the “New” badge for how many days?
@@ -155,6 +155,4 @@ Login type: choose a login type ( Modal or Link )
 * Login type: choose a login type (Modal or link)
 * Login text: Enter login text if needed
 * Login icon: choose a login icon from the list
-
-
 
