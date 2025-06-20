@@ -23,7 +23,7 @@ const config = {
   url: 'https://templaza.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/templaza-framework-docs/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -101,7 +101,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/intro',
+                to: '/category/templaza-framework',
               },
             ],
           },
@@ -109,16 +109,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Get Help',
+                href: 'https://templaza.com/support.html',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Refund Policy',
+                href: 'https://templaza.com/refund-policy.html',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Github',
+                href: 'https://github.com/templaza',
               },
             ],
           },
@@ -126,12 +126,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                href: 'https://astroidframe.work',
+                label: 'Portfolio',
+                href: 'https://themeforest.net/user/templaza-hub/portfolio',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Blog',
+                href: 'https://templaza.com/blog.html',
               },
             ],
           },
