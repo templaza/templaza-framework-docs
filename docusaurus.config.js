@@ -87,7 +87,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/templaza/astroid-framework',
+            href: 'https://github.com/templaza/templaza-framework-docs',
             label: 'GitHub',
             position: 'right',
           },
