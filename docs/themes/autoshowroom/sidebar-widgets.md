@@ -1,3 +1,9 @@
+---
+sidebar_position: 5
+---
+
+# Sidebar Widgets
+
 There are different pre-defined widgets that you can find in the Appearance > Widgets.
 ## Main Sidebar: 
 The main sidebar is usually located on the blog pages which are assigned to the default layout.

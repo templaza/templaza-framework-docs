@@ -1,3 +1,9 @@
+---
+sidebar_position: 6
+---
+
+# Background Image
+
 ## Background image of each section
 
 To edit the background image of a section, pls go to WP-admin > Pages > Edit your page > Edit the page with Elementor

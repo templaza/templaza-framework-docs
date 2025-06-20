@@ -1,5 +1,9 @@
+---
+sidebar_position: 4
+---
 
 # Inventory
+
 ## Inventory Page Assignment
 We built the inventory data with Advanced Products plugin, so you should make sure this plugin is installed on your site.
 To have an inventory page, you're supposed to go to Pages > Add New > Create a new page for Inventory.

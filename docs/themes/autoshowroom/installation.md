@@ -1,5 +1,9 @@
+---
+sidebar_position: 2
+---
 
 # Installation
+
 ## Method 1: Theme Installation Via Admin Panel
 First of all, you need to download the theme installable file from your account that purchased item, go to your **ThemeForest Account > Downloads Tab**
 

@@ -1,3 +1,9 @@
+---
+sidebar_position: 3
+---
+
+# Header
+
 ## Edit the Top Bar info (Phone number & Email Address)
 To edit the info on the top bar including phone number and email address, you should go to AutoShowroom options > Headers > Edit each header in use > Layout > Edit the Info Text Block.
 The Home page is usually assigned to the AutoShowroom Header absolute, while other pages are assigned to the Default header (the one is marked with the yellow star icon). So you're supposed to edit both the  header absolute and the default header. 

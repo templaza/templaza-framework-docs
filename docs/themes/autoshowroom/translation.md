@@ -1,3 +1,9 @@
+---
+sidebar_position: 7
+---
+
+# Translation
+
 To translate the theme, I suggest you use the Loco plugin. This plugin can help you do all things easily.
 Please read the guide document for detail here: Loco Translate. Below are some common words and phrases you may ask for translation (Mostly relating to Advanced products).
 
