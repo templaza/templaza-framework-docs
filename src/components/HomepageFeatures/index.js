@@ -116,7 +116,7 @@ function FeatureTheme({theme_png,theme_url, theme_title, theme_description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center heading-theme">
-          <a href={theme_url}><img src={theme_png} alt="{title}" /></a>
+          <a href={theme_url} target="_blank"><img src={theme_png} alt="{title}" /></a>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{theme_title}</Heading>
