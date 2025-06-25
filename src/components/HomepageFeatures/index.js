@@ -4,42 +4,106 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'TemPlaza Framework',
+      png: require('@site/static/img/framework.png').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+          We’re so pleased to introduce TemPlaza Framework WordPress plugin which plays an important role in creating footer, header template layout for archive, single of post or custom post type.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Advanced Product',
+      png: require('@site/static/img/adv.png').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+          Advanced Products is a WordPress plugin that allows you to create different products containing extra content fields. Showcasing your beautiful product collection in attractive listing layouts.
+
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'WordPress Theme',
+      png: require('@site/static/img/wordpress-theme.png').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          Here you can easily find well-designed and featured-rich WordPress themes that provide you with better flexibility, and advanced tools that you can utilize to customize your website, so as to increase your website’s functionality.
       </>
     ),
   },
 ];
-
-function Feature({Svg, title, description}) {
+const FeatureThemeList = [
+  {
+    theme_title: 'AutoShowroom',
+    theme_url: 'https://templaza.com/theme-landing/auto-showroom-car-dealership-wordpress-theme.html',
+      theme_png: require('@site/static/img/theme-autoshowroom.png').default,
+      theme_description: (
+      <>
+          Automotive, Vehicles & Car Dealership
+      </>
+    ),
+  },
+  {
+      theme_title: 'Travelami',
+      theme_url: 'https://templaza.com/theme-landing/travelami.html',
+      theme_png: require('@site/static/img/theme-travelami.png').default,
+      theme_description: (
+      <>
+          Travel, Tour Booking & Agency
+      </>
+    ),
+  },
+  {
+      theme_title: 'Amanus',
+      theme_url: 'https://templaza.com/theme-landing/amanus.html',
+      theme_png: require('@site/static/img/theme-amanus.png').default,
+      theme_description: (
+      <>
+          Yacht Charter, Sailing & Boat
+      </>
+    ),
+  },
+  {
+      theme_title: 'Autobike',
+      theme_url: 'https://templaza.com/theme-landing/autobike.html',
+      theme_png: require('@site/static/img/theme-autobike.png').default,
+      theme_description: (
+      <>
+          Automotive, Vehicles & Motorbike
+      </>
+    ),
+  },
+  {
+      theme_title: 'Aventura',
+      theme_url: 'https://templaza.com/theme-landing/aventura-travel-tour-booking-system-wordpress-theme.html',
+      theme_png: require('@site/static/img/theme-aventura.png').default,
+      theme_description: (
+      <>
+          Agency, Travel & Tour Booking
+      </>
+    ),
+  },
+  {
+      theme_title: 'Interiart',
+      theme_url: 'https://templaza.com/theme-landing/interiart.html',
+      theme_png: require('@site/static/img/theme-interiart.png').default,
+      theme_description: (
+      <>
+          Architecture, Interior, Decor & Construction
+      </>
+    ),
+  },
+];
+const HeadingList = [
+    {
+        heading: 'FEATURED THEMES',
+    },
+];
+function Feature({png, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={png} alt="{title}" />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
@@ -48,16 +112,48 @@ function Feature({Svg, title, description}) {
     </div>
   );
 }
+function FeatureTheme({theme_png,theme_url, theme_title, theme_description}) {
+  return (
+    <div className={clsx('col col--4')}>
+      <div className="text--center heading-theme">
+          <a href={theme_url}><img src={theme_png} alt="{title}" /></a>
+      </div>
+      <div className="text--center padding-horiz--md">
+        <Heading as="h3">{theme_title}</Heading>
+        <p>{theme_description}</p>
+      </div>
+    </div>
+  );
+}
+function FeatureHeading({heading}) {
+  return (
+      <div className={clsx('col col--12')}>
+          <div className="text--center">
+            <Heading as="h2">{heading}</Heading>
+          </div>
+      </div>
+  );
+}
 
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
+        <div className="row tz-feature">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
         </div>
+      <div className="row tz-heading-center tz-heading-title">
+          {HeadingList.map((props, idx) => (
+              <FeatureHeading key={idx} {...props} />
+          ))}
+      </div>
+      <div className="row tz-heading-center tz-heading-theme">
+          {FeatureThemeList.map((props, idx) => (
+              <FeatureTheme key={idx} {...props} />
+          ))}
+      </div>
       </div>
     </section>
   );
