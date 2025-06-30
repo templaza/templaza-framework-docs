@@ -144,12 +144,12 @@ const config = {
       },
       algolia: {
         // The application ID provided by Algolia
-        appId: '3LC3SGFCYK',
+        appId: 'NQTFNL2XOJ',
 
         // Public API key: it is safe to commit it
-        apiKey: 'be3b769ece235f66b09d9a7ecd9ef293',
+        apiKey: 'cfed5de21ab21c1456e37deea3ab5188',
 
-        indexName: 'docs_templaza_com_3lc3sgfcyk_pages.tmp',
+        indexName: 'templaza',
 
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: false,
