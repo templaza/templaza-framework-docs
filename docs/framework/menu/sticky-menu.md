@@ -3,8 +3,6 @@ sidebar_position: 5
 ---
 # Mega Menu
 
-## Enable sticky header
-
 Each theme comes with a built-in mega menu that is perfect for displaying the large menu. You can add any widget to your menu. It also allows you to add icons, Columns and Background Images. This section will explain how to set up a mega menu.
 
 ## Enable a mega menu
