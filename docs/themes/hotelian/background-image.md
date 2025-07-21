@@ -22,9 +22,9 @@ The blog page is inherited the default layout. So you need to go to Hotelian Opt
 
 If you want to remove or change the black overlay color, you should look at the Overlay color option below the background image.
 
-![edit-breadcrumb-section.jpg](img/edit-breadcrumb-section.jpg)
+![hotel-edit-breadcrumb-section.png](img/hotel-edit-breadcrumb-section.png)
 
-![change-bg-breadcrumb-image.jpg](img/change-bg-breadcrumb-image.jpg)
+![hotel-edit-breadcrumb-image.png](img/hotel-edit-breadcrumb-image.png)
 
 You should edit both the layout in the Settings and templates as well. Pages on your website are assigned to a specific template, so you need to edit the corresponding one to see changes. 
 
@@ -33,7 +33,7 @@ You should edit both the layout in the Settings and templates as well. Pages on 
 You should go to Pages > edit a page > on the right sidebar, you can see an option "TemPlaza Style"
 Here you can see or choose the template style assigned to a page. If a page is not assigned to a specific template, it will be inherited the layout from the theme's Settings. 
 
-![assign-page-to-template-style.jpg](img/assign-page-to-template-style.jpg)
+![hotel-page-choose-template.png](img/hotel-page-choose-template.png)
 
 
 

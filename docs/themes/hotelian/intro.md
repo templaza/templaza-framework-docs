@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **Hotelian - Hotel Booking WordPress Theme**
 
-![screenshot](./img/screenshot.avif)
+![hotel-intro-img.png](./img/hotel-intro-img.png)
 
 Hotelian is an easy to customize theme and it's packed with a lot of features and very strong admin panel for any client to make a good website. The theme is also included with a lot of features for making a good professional look website with attractive design
 
