@@ -7,7 +7,8 @@ sidebar_position: 7
 In case you are building a monolingual site (one language), I suggest you use the Loco plugin to translate the theme. This plugin can help you do all things easily.
 Please read the guide document for detail here: Loco Translate. Below are some common words and phrases you may ask for translation (Mostly relating to Advanced products).
 
-But in case you're going to build a multilingual, you can consider WPMP, TranPress, Gtranslate plugins. 
+But in case you're going to build a multilingual, you can consider WPML, TranslatePress, Gtranslate plugins. 
+
 ## Translate Rental Units: Day, Month, Week, and Night
 
 To change Day, Month, Week, and Night, you should go to Advanced Products > Custom Fields > Edit Rental Units (Protected field) > Choices > Change the rental units after the ":"
@@ -17,7 +18,7 @@ You shouldn't change the rental value before ":"
 
 ## Translate Words: For Sale, For Rent, Sale/Rent
 
-To change the For Sale, For Rent labels, please go to theme options > Settings > Advanced Product Options > Advanced Product Badge > edit For Sale label, For Rent label, Sale/Rent label.
+To change the For Sale, For Rent labels, please go to Hotelian options > Settings > Advanced Product Options > Advanced Product Badge > edit For Sale label, For Rent label, Sale/Rent label.
 About the word "All", you should go to Loco Translate plugin > plugins > TemPlaza Framework > Install your language > Search and translate the word
 [Plugins / Templaza Framework /  templaza-framework-en_US.po (author)]
 
@@ -25,7 +26,7 @@ About the word "All", you should go to Loco Translate plugin > plugins > TemPlaz
 
 ## Translate "Share This" and "Make An Office Price"
 
-Go to Theme Options> Settings > Advanced Product Options > Advanced Product Single > You can see Office Price Label and Share Label
+Go to Hotelian Options> Settings > Advanced Product Options > Advanced Product Single > You can see Office Price Label and Share Label
 
 ![translate-share-this.jpg](img/translate-share-this.jpg)
 
@@ -38,7 +39,7 @@ Create your language and start to search and translate the word.
 
 ## Translate "Vendor Profile" 
 
-You can find an option to change the contact vendor title in Autoshowroom Options > Settings > Advanced Products Options > Advanced Product Single > Vendor Contact Title.
+You can find an option to change the contact vendor title in Hotelian Options > Settings > Advanced Products Options > Advanced Product Single > Vendor Contact Title.
 
 ![translate-vendor-profile.jpg](img/translate-vendor-profile.jpg)
 
@@ -46,7 +47,7 @@ You can find an option to change the contact vendor title in Autoshowroom Option
 
 ![translate-contact-vendor1.jpg](img/translate-contact-vendor1.jpg)
 
-You can find an option to change the contact vendor title in Autoshowroom Options > Settings > Advanced Products Options > Advanced Product Single > Vendor Contact Title.
+You can find an option to change the contact vendor title in Hotelian Options > Settings > Advanced Products Options > Advanced Product Single > Vendor Contact Title.
 
 ![translate-contact-vendor.jpg](img/translate-contact-vendor.jpg)
 
@@ -58,7 +59,7 @@ You can find an option to change the contact vendor title in Autoshowroom Option
 
 ![translate-included-taxes2.jpg](img/translate-included-taxes2.jpg)
 
-About MSRP, please go to Loco Translate > Themes > AutoShowroom en_US.po (author) > search and translate.
+About MSRP, please go to Loco Translate > Themes > hotelian en_US.po (author) > search and translate.
 
 ## Translate "All", "Keyword:", and "Search ..." (placeholder text) in the sidebar filter on the Inventory page
 
@@ -94,13 +95,13 @@ About the text "Call our seller to get the best price", please go to Loco transl
 
 ## Edit Get A Quote
 
-To edit Get A Quote text, please go to Autoshowroom Options > Settings > Advanced Products Options > Get A Quote > edit the text there. 
+To edit Get A Quote text, please go to Hotelian Options > Settings > Advanced Products Options > Get A Quote > edit the text there. 
 
 ![translate-get-a-quote.jpg](img/translate-get-a-quote.jpg)
 
 ## Edit Related Products
 
-To edit the Related Product title, please go to Autoshowroom Options > Settings > Advanced Product Options > Advanced Product Related > Related Title. 
+To edit the Related Product title, please go to Hotelian Options > Settings > Advanced Product Options > Advanced Product Related > Related Title. 
 
 ![translate-related-product-title.jpg](img/translate-related-product-title.jpg)
 
