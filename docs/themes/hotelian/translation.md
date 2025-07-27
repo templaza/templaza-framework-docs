@@ -11,10 +11,9 @@ But in case you're going to build a multilingual, you can consider WPML, Transla
 
 ## Translate Rental Units: Day, Month, Week, and Night
 
-To change Day, Month, Week, and Night, you should go to Advanced Products > Custom Fields > Edit Rental Units (Protected field) > Choices > Change the rental units after the ":"
-You shouldn't change the rental value before ":"
+To change Day, Month, Week, and Night, you should go to Advanced Products > Custom Fields > Edit Rental Units (Protected field) > Choices > Change the rental units labels after the ":"
 
-![edit-rental-units.jpg](img/edit-rental-units.jpg)
+![hotel-edit-rental-units.png](img/hotel-edit-rental-units.png)
 
 ## Translate Words: For Sale, For Rent, Sale/Rent
 
