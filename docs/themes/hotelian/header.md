@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Header
+# Hotelian Header
 At the moment, there are 4 prebuilt header styles:
 
 Header home 1
