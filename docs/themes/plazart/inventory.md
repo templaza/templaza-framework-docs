@@ -7,7 +7,7 @@ sidebar_position: 5
 
 Inventory is an archived page, so it's not available in the page list. So we need to have an option to assign a template layout to the page in the global settings.
 
-* Please go to WP-admin > Koer Settings > Settings > Settings > Advanced Product Options
+* Please go to WP-admin > Plazart Settings > Settings > Settings > Advanced Product Options
 * Choose a layout for Advanced Products Archive page (Layout Inventory) and Advanced Products Single page (Layout No Sidebar)
 
 ![Inventory](./img/adv-options.avif)
@@ -35,8 +35,18 @@ You should go to Plazart Options > Settings > Advanced Products Options. Here yo
 
 ## Inventory Assignment
 
-After creating an inventory page, you should go to WP-admin > Advanced Products > Settings  General tab. 
+After creating an inventory page, you should go to WP-admin > Advanced Products > Settings > General tab. 
 
 Choose the inventory page you created above, then save. 
 
 ![Inventory](./img/adv-assign.avif)
+
+## Single Inventory Product
+
+### Enable the Elementor Post Type
+
+The product tabs in each advanced product was built with Elementor, so you need to enable the corret post type for Advanced Products in Elementor's setting first. 
+Please go to Elementor > Settings > General tab > Checkbox the post type for Advanced Products. 
+Then go back to Advanced Products plugin > Products > Edit each product with Elementor > Then you'll be able to edit the content of product tabs.
+
+![elementor-post-type.png](img/elementor-post-type.png)
