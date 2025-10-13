@@ -10,9 +10,9 @@ sidebar_position: 3
 
 * Please go to WP-admin > Appearance > Menu > Edit the main menu
 * Add a custom link to the menu
-* Insert the custom link url `https://yourdomain/ap-product/`, then the inventory page will automatically be shown in the front-end. 
+* Insert the custom link url `https://yourdomain/inventory/`, then the inventory page will automatically be shown in the front-end. 
 
-Ex: your domain is http://abc.com, then the custom link should be http://abc.com/ap-product
+Ex: your domain is http://abc.com, then the custom link should be http://abc.com/inventory
 
 ![Inventory](./img/inventory-slug.jpeg)
 
