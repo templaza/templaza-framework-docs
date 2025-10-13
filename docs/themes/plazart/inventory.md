@@ -46,6 +46,7 @@ Choose the inventory page you created above, then save.
 ### Enable the Elementor Post Type
 
 The product tabs in each advanced product was built with Elementor, so you need to enable the corret post type for Advanced Products in Elementor's setting first. 
+
 Please go to Elementor > Settings > General tab > Checkbox the post type for Advanced Products. 
 Then go back to Advanced Products plugin > Products > Edit each product with Elementor > Then you'll be able to edit the content of product tabs.
 
