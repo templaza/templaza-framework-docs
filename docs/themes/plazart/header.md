@@ -43,11 +43,11 @@ Below the header modes, you can see the logo option, here you can change the def
 
 ## Header Layout
 
-![Header](./img/header-layout.avif)
-
 ### Header Contact Info
 
 In the header layout, you should edit the first text block to edit the contact information on the top-bar section.
+
+![Header](./img/header-layout.avif)
 
 ### Social Icons
 
@@ -56,3 +56,4 @@ In the Header layout, you can manage the position of the social icons in the hea
 To change the social icons, you're supposed to go to **Plazart Options > Settings > Social.** Here you can add more or remove social icons. 
 
 ![Header](./img/header-social.avif)
+
