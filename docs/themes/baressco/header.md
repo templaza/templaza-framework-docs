@@ -5,11 +5,11 @@ sidebar_position: 5
 # Baressco Headers
 At the moment, there are 3 prebuilt header styles:
 
-Header home 1 (Default header)- Horizontal Canter
+Header home 1 (Default header)- Horizontal Center
 ![barescco-header1.png](img/barescco-header1.png)
 
 Header Home 2 - Transparent Header
-![barescco-header2.png](img/barescco-header2.png)
+![baressco-header2.png](img/baressco-header2.png)
 
 Header Home 3 - Stacked Center
 ![baressco-header3.png](img/baressco-header3.png)
