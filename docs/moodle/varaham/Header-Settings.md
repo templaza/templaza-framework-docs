@@ -1,11 +1,11 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 # Header Settings
 
-![varaham-header-general-style.png](img/varaham-header-general-style.png)
-
 ## Header General Style
+
+![varaham-header-general-style.png](img/varaham-header-general-style.png)
 
 1. Header Style: Here you can choose between the layouts available for the header:
 
@@ -73,7 +73,8 @@ With Custom Login Link URL and Custom Login Link Text you can enter a custom URL
 4. Additional Login Link/ Custom Login Link URL/ Custom Login Link Text: 
 
 Here you can choose to show an additional link at the login form of the theme:
-None
+
+   - None
    - Link to the Moodle "Create new account" page
    - Link to the Moodle "Forgotten your username or password?" page
    - Link to the Moodle login page

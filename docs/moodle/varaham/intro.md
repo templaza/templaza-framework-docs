@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Varaham introduction
+# Varaham Introduction
 
 **Varaham - Education & Online Courses WordPress Theme**
 
@@ -43,31 +43,3 @@ Go to **_Site administration > Appearance > Themes_**
 
 `Note: The selected theme may be overridden if user/course or category themes have been allowed in the Moodle core theme settings.
 `
-## Adding The Menu
-
-**Advanced Theme Settings**
-
-An administrator can add the menu via the Moodle theme settings in Site administration > Appearance > Advanced Theme settings.
-
-![varaham-menu.png](img/varaham-menu.png)
-
-**Custom menu items**
-
-You are able to create the custom menu by entering custom menu items one per line into the setting. Each item which is preceded by a hyphen (-), will appear on a drop down menu below the previous top level item. So items that are NOT preceded by a hyphen appear on the top level of the menu (always visible).
-
-The content of each item is constructed of up to three bits, each separated by a | (Shift + \) character. The bits are label | url | tooltip.
-
-- **label**: This is the text that will be shown within the menu item. You must specify a label for every item on the menu.
-- **url**  This is the URL that the user will be taken to if they click the menu item. This is optional, if not provided then the item will not link anywhere.
-- **tooltip**  If you provide a URL you can also choose to provide a tooltip for the link that is created with the URL. This is optional and if not set the label is used as the tooltip for the menu item.
-
-The following is an example of how you would create a custom menu:
-
-Courses 
-- All courses|/course/index.php 
-- Course search|/course/search.php 
-- About us | /mod/page/view.php?id=49
-Pages 
-- Our Gallery | /mod/page/view.php?id=79 
-- FAQ Page | /mod/page/view.php?id=155 
-- Login Page | /login/index.php

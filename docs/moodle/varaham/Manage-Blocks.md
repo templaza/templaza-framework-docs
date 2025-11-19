@@ -1,7 +1,9 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
-# Managing blocks - General information
+# Managing blocks
+
+**General Information**
 
 Blocks are a type of content items, similar to resources. They are used to provide an overview of the course itself or enhance your core course content. They can be added to the Dashboard and to special Moodle block positions.
 

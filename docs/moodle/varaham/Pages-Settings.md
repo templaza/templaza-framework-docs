@@ -1,7 +1,7 @@
 ---
-sidebar_position: 10
+sidebar_position: 9
 ---
-# Advanced Settings
+# Pages Settings
 
 ![page-settings.png](img/page-settings.png)
 
