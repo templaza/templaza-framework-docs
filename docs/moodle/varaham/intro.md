@@ -20,6 +20,10 @@ This documentation should help you get started. It covers everything you need to
 
 ## Installation & Demo Import
 
+![varaham-theme-installation.png](img/varaham-theme-installation.png)
+
+**Upload Theme**
+
 Upload and install via ZIP file
 1. Login to your Moodle site as an admin.
 2. Go to Site administration > Plugins > Install plugins.
@@ -27,7 +31,9 @@ Upload and install via ZIP file
 4. Upload the ZIP file in the folder.
 5. Check the plugin validation report, then click the button 'Install plugin'.
 
-![varaham-theme-installation.png](img/varaham-theme-installation.png)
+**Install Plugins**
+
+1.Upload these plugins: block_templaza.zip and tiny_templaza.zip
 
 ## Changing the default theme
 

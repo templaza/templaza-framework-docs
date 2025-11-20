@@ -12,6 +12,7 @@ First, go to the frontpage of your Moodle site and turn editing on ("Administrat
 
 From the "Add block" dropdown, add the main menu block if it is not already present
 At the 'Main menu' block, click "Add an activity or resource" and choose Page. There, you can add your contents and information.
+
 You might want to have the pages at the Moodle custom menu bar instead of being shown in an additional block. With "turn editing on" still enabled at the frontpage, you should see a "Blocks moved into the area below will only be seen by admins" area. Here you can place any Moodle block so that it won't appear at the content area. In the block settings of the main menu block (click on the small cogwheel icon), please select the "hidden" position for *both* "Where this block appears" > "Default region" *and* "On this page".
 The main menu block is now hidden for your users, but you can use the links of the "content pages" that you created there for your custom menu (see screenshot in the attachment).
 
@@ -21,6 +22,7 @@ It is possible to open the links at the custom menu in a new tab by adding the t
 
 `Moodle Homepage|http://moodle.org" target="_blank
 `
+
 **Please note**: You mustn't put a closing quote mark on the end of the statement, that will be added by the Moodle renderer and otherwise the link won't work.
 
 ## Adding the menu
@@ -73,6 +75,7 @@ Users can normally customise their personal Dashboard, adding or removing blocks
 
 `An administrator can reset the Dashboard for all users via Site administration > Appearance > Default Dashboard page.
 `
+
 2. Hiding the Dashboard
 
 If deadlines and calendar events are not used in your site then the Dashboard may be removed from the top navigation from Site administration > Appearance > Navigation and unchecking 'Enable Dashboard'. A different home page can then be set for users.
