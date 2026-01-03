@@ -81,11 +81,16 @@ Then upload the following:
 
 1. Open the config.php file located in your Moodle root directory.
 2. Update the following:
-   `$CFG->dbuser, $CFG->dbpass, $CFG->dbname` – set your DB credentials.
-   `$CFG->dbhost` – usually `localhost` or `127.0.0.1.`
-   `$CFG->wwwroot` – use your actual site URL.
-   `$CFG->dataroot` – path to your moodledata directory.
-   `$CFG->directorypermissions` – typically `0777` or `0755`.
+   
+   -`$CFG->dbuser, $CFG->dbpass, $CFG->dbname` – set your DB credentials.
+   
+   -`$CFG->dbhost` – usually `localhost` or `127.0.0.1.`
+   
+   -`$CFG->wwwroot` – use your actual site URL.
+   
+   -`$CFG->dataroot` – path to your moodledata directory.
+   
+   -`$CFG->directorypermissions` – typically `0777` or `0755`.
    
 ###  Step 6: Log In
 
