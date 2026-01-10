@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
 ---
-# How to change the tour's custom field order
+# How to change the custom field order
 
-## How to change the order of custom fields in the detailed tour view
+## How to change the order of custom fields in the detailed product page
 
 ![sport-custom-field](./img/sport-custom-field.png)
 
@@ -18,7 +18,7 @@ Here you can see Custom field order, choose an appropriate option and save.
 * Custom field order
 * Custom field reverse order
 
-![custom field](./img/custom-field-order-archive.avif)
+![sport-custom-field-order](./img/sport-custom-field-order.png)
 
 If you choose the custom field order or Custom field reverse order, you should finish the final step by going to Custom Fields > Reorder the custom fields manually. 
 

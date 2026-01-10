@@ -139,7 +139,8 @@ These settings are part of the general Moodle core settings for blocks. See also
 
 1. Text Editor: Add further content above the slideshow like a heading. It has the standard Moodle Text editor for formatting text, adding images or creating links, switching to code view and allows any valid HTML mark-up to be used. This enables embedding video, sounds and other multimedia elements
 
-2. Number of Slides: Choose the number of slides for the slideshow. You can define up to 10 slides.
+2. Number of Slides: Choose 
+   the number of slides for the slideshow. You can define up to 10 slides.
 
 **Slider Settings**
 

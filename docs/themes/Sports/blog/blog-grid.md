@@ -16,13 +16,12 @@ In general, you can configure the number of columns on devices, limit articles, 
 * Enable cover image
 * Image resolution: Full
 
-![Blog](./img/grid-config.jpeg)
+![Blog](./img/grid-config.png)
 
 **Meta Settings**
 
 You can select which meta option is displayed before the post's title, after the post's title, in the description, and in the footer. 
 
-![blog-meta-settings](./img/blog-meta-settings.png)
 
 
 

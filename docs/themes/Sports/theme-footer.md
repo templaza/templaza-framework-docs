@@ -22,5 +22,5 @@ You can also use a text block to display the copyright.
 
 To change the black background color of the footer, you can easily edit it from the footer layout.
 Please edit the footer section > Design Settings > Change the background color there. 
-Beside that, you can also change the background image, background overlay, border radius and so on. 
+Besides, you can also change the background image, background overlay, border radius and so on. 
 

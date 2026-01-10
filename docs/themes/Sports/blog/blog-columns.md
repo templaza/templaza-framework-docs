@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # Blog Columns
 
-![sport-blog-column(./img/sport-blog-column.png)
+![sport-blog-column](./img/sport-blog-column.png)
 
 The theme's blog column is created with Elementor, so please go to this page > click edit with Elementor.
 
@@ -13,11 +13,11 @@ The page's content is built with TemPlaza: UI Post, click on it to edit the elem
 
 By editing the TemPlaza: UI Posts, please configure the columns on Large desktops, Desktops, Laptops, Tablets, and Mobile phones. 
 
-![Blog](./img/choose-column.jpeg)
+![Blog](./img/choose-column.png)
 
 ## Title Settings
 
-![Blog](./img/title-setting.jpeg)
+![Blog](./img/title-setting.png)
 
 Please go to the title settings, you'll see options to adjust the blog article's title including title heading tag, title font, style, custom color of title, and title's margin.
 
@@ -32,4 +32,4 @@ Please go to the title settings, you'll see options to adjust the blog article's
 
 Select elements (Date, Author, Tags, Category) for different positions Before title/After title/After description/and In the footer.
 
-![Blog](./img/column-config.jpeg)
+![Blog](./img/column-config.png)

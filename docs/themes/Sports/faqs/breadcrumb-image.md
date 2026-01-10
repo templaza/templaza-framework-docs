@@ -12,7 +12,7 @@ So to change this background image, please go to Sport Options > Templates > Ope
 * You should go to Sport Options > Templates > ex: Sport courts > Layout.
 * Edit the Breadcrumb section > Design Settings tab > Change the background image. 
 
-![breadcrumb](./img/breadcrumb-layout.avif)
+![breadcrumb](./img/sport-breadcrumb-layout.png)
 
 1. Get background from page featured image, or archive breadcrumb image: If you upload a featured image for a page, this option will display the featured image in the breadcrumb section. 
 2. Background Overlay: Change the background overlay of the breadcrumb image 
