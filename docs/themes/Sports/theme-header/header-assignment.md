@@ -12,7 +12,6 @@ Please go to Sport Options > Headers > You can see 5 Prebuilt Headers.
 
 It's possible to have different header styles for different pages. You just need to edit each header > Template Assignment > Assign the header to specific  templates.
 
-![header-default](./img/header-default.png)
 
 In case, you would like to have only one header for the whole website, just remove other redundant headers, or mark one header as default. 
 
