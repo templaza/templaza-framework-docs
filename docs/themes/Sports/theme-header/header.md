@@ -3,17 +3,13 @@ sidebar_position: 1
 ---
 # Theme's Header
 
-
-The Home Page 1 is assigned to Header 1, while Home 2 and Home 3 are assigned to Header 2 and Header 3 respectively. 
-
-You can go to Travelami Options > Headers > There you can see 3 prebuilt header templates > Open Travelami Default.
-
+You can go to Sports Options > Headers > There you can see 6 prebuilt header templates > You can edit one by one.
 
 Open each header template, you will see options to configure the header logo, header layout and others.
 
-## Header modes
+![sport-header-options](./img/sport-header-options.png)
 
-![Header](./img/header-mode.avif)
+## Header modes
 
 There are many header modes for you to choose from, including Horizontal, Stacked, and Sidebar.
 
@@ -23,7 +19,7 @@ Block 1 is a position where you can place a widget, contact info, and a custom h
 
 ## Transparent Header
 
-You can see the transparent header on the home page 1, home page 2, and home page 3. To enable or disable the transparent header, you can 
+You can see the transparent header on the home page 1, home page 2, and home page 3. To enable or disable the transparent header, you can enable the option "Header Display Absolute"
 
 
 

@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Sticky Logo
 
-![Logo](./img/sticky-logo.avif)
+![Logo](./img/sport-sticky-logo.png)
 
 Below the Logo section, you'll see the sticky options. Here you can enable or disable the sticky menu option.
 
