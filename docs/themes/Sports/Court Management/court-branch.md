@@ -1,10 +1,9 @@
 ---
 sidebar_position: 2
 ---
-# Tour Types
+# Product Branch
 
-Tour type groups together tour items that have the same custom fields. And you must create at least one tour type to be assigned to products.
+A product branch is created to group products together that share the same groups of custom fields. And It's a must to have at least one branch available to be assigned to products.
 
-
-You can create different tour types to specifically classify your available tours. And each branch should be assigned to field groups.
+You can create different branches to specifically classify your available products. Each branch should be assigned to field groups.
 

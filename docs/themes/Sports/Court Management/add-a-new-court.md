@@ -8,21 +8,34 @@ sidebar_position: 1
 After adding branches, destinations, languages, field groups, and custom fields, you're ready to add new courts. Please go to Wp-admin > Advanced Products > Add new.
 
 
-## Tour Properties
+## Court Properties
 
-In the Court properties, you can choose a branch of the tour, and upload the tour's image gallery.
+![sport-court-property](./img/sport-court-property.png)
 
-## Tour Map
+In the Court properties, you can choose a branch, and a category for a product.
 
-First you need to add a new field for tour map, please go to Tours > Custom Fields > Add New. 
+## Court Image Gallery
 
-* Field label: Tour map
+Upload image gallery for a court.
+
+![sport-court-gallery](./img/sport-court-gallery.png)
+
+## Court Map
+
+![sport-court-map](./img/sport-court-map.png)
+
+First you need to add a new field for court map, please go to Advanced Products > Custom Fields > Add New. 
+
+* Field label: Court map
 * Field type: WYSIWYG Editor
-* Assign the tour map to a field group
+* Assign the field to a field group
 
-The tour map field will display in the article like below, you can input the content for this field.
+The court map field will display in the article like below, you can input the content for this field.
 
-## Tour Info
+## Court Information
 
-The tour info section contains several custom fields including Language, Destination, Departure, Physicality, Duration, and others. 
+![sport-court-info](./img/sport-court-info.png)
+
+The Court information section contains several custom fields including Location, Phone, and Overview. 
+You can also assign other custom fields to the Court Information group, so they can be displayed in this section. 
 
