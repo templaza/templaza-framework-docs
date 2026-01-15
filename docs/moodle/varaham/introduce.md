@@ -5,7 +5,7 @@ sidebar_position: 1
 
 **Varaham - Education & Online Courses Moodle Theme**
 
-![varaham-featured.png](img/varaham-featured.png)
+![varaham-featured.png](./img/varaham-featured.png)
 
 Varaham is a modern Moodle education theme for your website. It is a stunningly flexible, perfect and extensive education theme which is the perfect solution for those who love to represent their organization such as school, college, training courses, corporate training, university etc…
 
@@ -20,7 +20,7 @@ This documentation should help you get started. It covers everything you need to
 
 ## Installation & Demo Import
 
-![varaham-theme-installation.png](img/varaham-theme-installation.png)
+![varaham-theme-installation.png](./img/varaham-theme-installation.png)
 
 **Upload Theme**
 
@@ -43,7 +43,7 @@ Follow these steps to successfully install the Varaham's demo content on your Mo
 1. Log in to phpMyAdm
 2. Create a new database
 
-![create-database](img/create-database.png)
+![create-database](./img/create-database.png)
 
 ### Step 2: Import Demo SQL File
 
@@ -51,7 +51,7 @@ Follow these steps to successfully install the Varaham's demo content on your Mo
 2. Click on Import.
 3. Choose and import the varaham.sql file (extracted from the demo package).
 
-![import-demo](img/import-demo.png)
+![import-demo](./img/import-demo.png)
 
 ### Step 3: Upload Files
 
@@ -67,7 +67,7 @@ Then upload the following:
    - varaham.zip (theme file) → into: /demo_files/theme/
    - blocks.zip (all blocks) → into: /demo_files/blocks/
 
-![correct-way-to-upload-custom-blocks](img/correct-way-to-upload-custom-blocks.jpg)
+![correct-way-to-upload-custom-blocks](./img/correct-way-to-upload-custom-blocks.jpg)
 
 ###  Step 4: Upload Moodle Data Files
 
@@ -78,43 +78,41 @@ Then upload the following:
 **Important: Ensure the moodledata directory has read and write permissions.
 
 ### Step 5: Configure config.php
-
 1. Open the config.php file located in your Moodle root directory.
 2. Update the following:
-   
-   -`$CFG->dbuser, $CFG->dbpass, $CFG->dbname` – set your DB credentials.
-   
-   -`$CFG->dbhost` – usually `localhost` or `127.0.0.1.`
-   
-   -`$CFG->wwwroot` – use your actual site URL.
-   
-   -`$CFG->dataroot` – path to your moodledata directory.
-   
-   -`$CFG->directorypermissions` – typically `0777` or `0755`.
-   
-###  Step 6: Log In
 
-1. Visit: {your-site-url}/login/index.php
+   -`$CFG->dbuser, $CFG->dbpass, $CFG->dbname` – set your DB credentials.
+
+   -`$CFG->dbhost` – usually `localhost` or `127.0.0.1.`
+
+   -`$CFG->wwwroot` – use your actual site URL.
+
+   -`$CFG->dataroot` – path to your moodledata directory.
+
+   -`$CFG->directorypermissions` – typically `0777` or `0755`.
+
+###  Step 6: Log In
+1. Visit: your-site-url/login/index
 2. Use the following admin credentials:
    Username: admin  
    Password: password
-   
+
 ### Step 7: Search & Replace Old URLs
 
-1. Go to: {your-site-url}/admin/tool/replace/
+1. Go to: your-site-url/admin/tool/replace/
 2. Enter the old URL (based on the original setup):
    ex: https://varaham.dev.site
-   
+
 3. Replace it with your current site URL, e.g.:
    https://yourdomain.com/
 
-![update-URL](img/update-URL.png)
-   
+![update-URL](./img/update-URL.png)
+
 4. Click Submit to complete the URL update.
 
 ### Step 8: Purge Moodle Cache
 
-1. Visit: {your-site-url}/admin/purgecaches.php
+1. Visit: your-site-url/admin/purgecaches
 2. Click "Purge all caches"
 
 This may take a few minutes. Be patient.
