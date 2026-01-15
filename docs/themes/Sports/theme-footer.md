@@ -5,6 +5,8 @@ sidebar_position: 5
 
 ![sport-footer.png](img/sport-footer.png)
 
+![sport-footer-home5](img/sport-footer-home5.png)
+
 ## Footer layout
 
 ![sport-footer-layout.png](img/sport-footer-layout.png)
