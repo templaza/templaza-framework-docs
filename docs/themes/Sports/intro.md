@@ -1,14 +1,14 @@
 ---
 sidebar_position: 1
 ---
-# Sport WordPress Theme Document
+# Sbona WordPress Theme Document
 
-**Sport - Sport Clubs & Outdoors WordPress Theme**
+**Sbona - Sport Clubs & Outdoors WordPress Theme**
 
-![Sport-featured](./img/Sport-featured.png)
+![sbona-featured](./img/sbona-featured.png)
 
-Sports is stylish & fresh solution for contemporary tennis club (as well as other sports), personal trainer, sports centers, sports review magazine, tennis clubs, sport school and sports store.
-The theme is made with the powerful Elementor, which makes it a perfect solution to build an online presence. It is built WooCommerce ready, to create a powerful store of sports apparel and equipments; The Sports is based on our powerful framework which will help you build a super functional sport related website.
+Sbona is stylish & fresh solution for contemporary tennis club (as well as other sports), personal trainer, sports centers, sports review magazine, tennis clubs, sport school and sports store.
+The theme was made with the powerful Elementor, which makes it a perfect solution to build an online presence. It is built WooCommerce ready, to create a powerful store of sports apparel and equipments; Sbona is based on our powerful framework which will help you build a super functional sport related website.
 A full-fledged blog, gallery and fully responsive design, Mega Menu, unlimited layout options; the possibilities are endless! Product filtering through advanced search and sorting is available. With the support of the Advanced product plugin, users will find it so easy to use, customize, and manage courts
 
 ## Installation & Demo Import
