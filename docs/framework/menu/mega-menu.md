@@ -1,25 +1,50 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
-# Sticky Menu
+# Mega Menu
 
-## Enable sticky header
+Each theme comes with a built-in mega menu that is perfect for displaying the large menu. You can add any widget to your menu. It also allows you to add icons, Columns and Background Images. This section will explain how to set up a mega menu.
 
-Please go to **WP-admin > Theme Options > Headers >** Edit your header > Header  > Scroll down to the Sticky header section
+## Enable a mega menu
 
-Enable the sticky header and choose a header mode for the sticky. There are 3 types of the sticky menu mode: Left, Center, and Right.
+To activate the mega menu, you should go to **Appearance > Menus >** Open your primary menu > Toggle a menu item > Open the **"Menu Options"**
 
-![sticky-enable](./img/sticky-enable.avif)
+![mega menu](./img/mega-menu.avif)
 
-You can find an option to change the sticky max-width and adjust the padding and border of the sticky header.
+* **Enable:** Turn on the option to activate the mega menu.
+* **Sub-Menu Alignment:** Choose an option for the sub-menu alignment.
+* **Sub-Menu Width:** when you choose sub-menu alignment (Left, Right, Center) you will see this option to set the sub-menu width. If you choose Full or Container, this option is not available. 
 
-## Sticky Logo
+![mega menu](./img/mega-menu-enable.avif)
 
-After enabling the sticky header, scroll down and upload a sticky logo. You can also be able to configure the type of sticky header on desktops, tablets, and mobile devices.
+After enabling the Mega menu, you can see all the sub-menu displays in one column. 
 
-![Sticky logo](./img/sticky-logo.avif)
+To separate them into different columns, please click on the window icon to open a list of grid layouts, you can choose a prebuilt layout or make a custom layout. 
 
-Moving to the menu section in settings, you're able to control the design for sticky menu.
+![mega menu](./img/mega-menu-column.avif)
 
-![Sticky menu](./img/sticky-menu.jpeg)
+Then you'll see a popup including all the possible prebuilt grid layouts, you can choose one of the available or create a custom layout. 
 
+![mega menu](./img/mega-menu-layout.avif)
+
+Choose a grid layout and start adding new elements by clicking on the **"+"** icon in each column. You will see a popup including all the available elements to choose from. 
+
+Click on an element you want to add to the column. Then **drag & drop** elements among columns to fit your need. 
+
+![mega menu](./img/mega-menu-add.avif)
+
+![mega menu](./img/mega-menu-add-element.avif)
+
+You can drag and drop elements from 1 column to another column and reorder them easily. 
+
+![mega menu](./img/mega-menu-drag.avif)
+
+## Adjusting the custom padding of the megamenu
+
+After reordering the elements among columns, you should open the row settings, and adjust the custom padding. 
+
+Click on the edit icon at the right **corner > Design Settings > Custom Padding.**
+
+![mega menu](./img/mega-menu-padding.avif)
+
+![mega menu](./img/mega-menu-padding-conf.avif)
