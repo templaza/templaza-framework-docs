@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 ---
+
 # Blog Columns
 
 ![sport-blog-column](./img/sport-blog-column.png)
