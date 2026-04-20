@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 ---
-# Header
+# Header Icons
 
 ![Header icon](./img/header-icon.jpeg)
 
