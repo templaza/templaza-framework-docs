@@ -2,15 +2,13 @@
 sidebar_position: 2
 ---
 
-## Blog Single Options
+# Blog Single Options
 
 The **Blog Single** settings allow you to control the layout, visibility, and styling of individual blog post pages. These options help ensure consistency in presentation while giving flexibility to match your website’s design.
 
----
-
 ![templaza-blog-single-options.png](img/templaza-blog-single-options.png)
 
-### 1. Display Settings
+## 1. Display Settings
 
 These options control the visibility of key elements within a single blog post.
 
@@ -25,10 +23,8 @@ These options control the visibility of key elements within a single blog post.
 
 * **Feature Effect**
   Apply a hover effect to the featured image for enhanced visual interaction.
-
----
-
-### 2. Post Information
+  
+## 2. Post Information
 
 Manage the visibility of post metadata and descriptive content.
 
@@ -41,9 +37,7 @@ Manage the visibility of post metadata and descriptive content.
 * **Show Description**
   Show or hide the post excerpt or summary.
 
----
-
-### 3. Navigation & Interaction
+## 3. Navigation & Interaction
 
 Enhance user engagement and navigation between posts.
 
@@ -59,13 +53,11 @@ Enhance user engagement and navigation between posts.
 * **Show Comment**
   Enable or disable the comment section for user interaction.
 
----
-
-### 4. Styling Options
+## 4. Styling Options
 
 Customize the visual appearance of the blog single page.
 
-#### Background
+### Background
 
 * **Blog Single Background**
   Set a background color or upload a background image.
@@ -76,12 +68,12 @@ Customize the visual appearance of the blog single page.
     * Background Attachment
     * Background Position
 
-#### Border
+### Border
 
 * **Blog Single Border**
   Configure border width for each side (top, right, bottom, left), select border style, and define border color.
 
-#### Spacing
+### Spacing
 
 * **Blog Single Padding**
   Adjust the inner spacing within the blog container.
@@ -92,19 +84,17 @@ Customize the visual appearance of the blog single page.
 * **Blog Single Margin**
   Define the outer spacing around the blog container.
 
-#### Border Radius
+### Border Radius
 
 * **Blog Single Border Radius**
   Set the roundness of the container corners.
 
-#### Box Shadow
+### Box Shadow
 
 * **Blog Single Box Shadow**
   Apply shadow effects to create depth and visual hierarchy.
 
----
-
-### 5. Blockquote Styling
+## 5. Blockquote Styling
 
 * **Blockquote Background**
   Customize the background color or image for blockquote elements within the post content.
