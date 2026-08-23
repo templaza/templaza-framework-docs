@@ -21,8 +21,6 @@ So to change this background image, please go to Kandei Options > Templates > Op
 5. Border: Adjust the breadcrumb's border
 6. Border Radius: Set the border radius of the breadcrumb image. If you don't want the border radius, set 0 for all.
 
-![sport-change-breadcrumb](./img/sport-change-breadcrumb.png)
-
 ## Create different breadcrumb images on various pages
 
 In case you're not fond of having the same breadcrumb image on many pages, you can refer to my below suggestion.
