@@ -1,15 +1,17 @@
 ---
 sidebar_position: 1
 ---
-# Sbona WordPress Theme Document
+# Kandei WordPress Theme Document
 
-**Sbona - Sport Clubs & Outdoors WordPress Theme**
+**Kandei - School & Kindergarten WordPress Theme**
 
-![sbona-featured](./img/sbona-featured.png)
+![kandei-screenshot.png](./img/kandei-screenshot.png)
 
-Sbona is stylish & fresh solution for contemporary tennis club (as well as other sports), personal trainer, sports centers, sports review magazine, tennis clubs, sport school and sports store.
-The theme was made with the powerful Elementor, which makes it a perfect solution to build an online presence. It is built WooCommerce ready, to create a powerful store of sports apparel and equipments; Sbona is based on our powerful framework which will help you build a super functional sport related website.
-A full-fledged blog, gallery and fully responsive design, Mega Menu, unlimited layout options; the possibilities are endless! Product filtering through advanced search and sorting is available. With the support of the Advanced product plugin, users will find it so easy to use, customize, and manage courts
+Kandei – Kindergarten & School WordPress Theme is a vibrant, modern, and professionally designed WordPress theme tailored for kindergartens, preschools, daycare centers, nursery schools, elementary schools, children’s education centers, and online learning platforms. Featuring a clean, engaging interface and flexible customization options, Kandei makes it easy for educational organizations to establish a warm, professional, and trustworthy online presence.
+
+Powered by Elementor, Kandei lets you build and customize your website effortlessly with an intuitive drag-and-drop editor. The theme comes with professionally designed homepage variations and essential inner pages, along with features for managing events, teacher profiles, class schedules, galleries, blog posts, contact forms, and more.
+
+Fully responsive and optimized for SEO and performance, Kandei is designed to work smoothly across all devices and supports the latest WordPress version. Whether you’re launching a kindergarten, preschool, daycare, children’s academy, or online education website, Kandei provides a complete and flexible solution to create a professional website without requiring coding skills.
 
 ## Installation & Demo Import
 

@@ -1,11 +1,11 @@
 ---
 sidebar_position: 4
 ---
-# Remove the breadcrumb heading or breadcrumb path
+# How to remove the breadcrumb heading or breadcrumb path
 
-![sport-breadcrumb](./img/sport-breadcrumb.png)
+![kandei-breadcrumb.png](./img/kandei-breadcrumb.png)
 
-If you don't want to show the Breadcrumb's heading or the breadcrumb path in the Breadcrumb section, just need to go to Sports Options > Templates > Open a template (ex: Sports About Us)> Layout.
-Then remove the corresponding element in the layout. 
+If you don't want to show the Breadcrumb's heading or the breadcrumb path in the Breadcrumb section, just need to go to Kandei Options > Templates > Open a template (ex: Our Classes)> Layout.
+Then remove the Heading or the Breadcrumb element in the layout. 
 
-![breadcrumb-layout](./img/sport-template-layout.png)
+![kandei-edit-breadcrumb.png](./img/kandei-edit-breadcrumb.png)

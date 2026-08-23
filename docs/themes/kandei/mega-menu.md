@@ -7,8 +7,7 @@ sidebar_position: 6
 
 To activate the mega menu, you should go to Appearance > Menus > Open your primary menu > Toggle a menu item > Open the **"Menu Options"**
 
-![megamenu](./img/sport-megamenu.png)
-
+![megamenu](./img/kandei-megamenu.png)
 
 * **Enable:** Turn on the option to activate the mega menu.
 * **Sub-Menu Alignment:** Choose an option for the sub-menu alignment.
