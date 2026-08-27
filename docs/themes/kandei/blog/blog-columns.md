@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Blog Columns
 
-![sport-blog-column](./img/sport-blog-column.png)
+![blog-column](./img/kandei-blog-columns.png)
 
 The theme's blog column is created with Elementor, so please go to this page > click edit with Elementor.
 

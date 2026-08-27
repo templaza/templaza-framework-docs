@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Blog Image Left / Right
 
-![sport-blog-img-left](./img/sport-blog-img-left.png)
+![blog-img-left](./img/kandei-blog-img-left.png)
 
 By using TemPlaza - UI Posts, In the Image Settings tab, you can see the Image Position option which allows you to choose an Image position.
 

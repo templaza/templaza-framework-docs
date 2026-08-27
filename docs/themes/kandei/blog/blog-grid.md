@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-![sport-blog-grid](./img/sport-blog-grid.png)
+![blog-grid](./img/kandei-blog-grid.png)
 
 Blog grid is designed to display a grid of blog articles on a page. You're supposed to create a new page and edit the page with Elementor. Adding UI Posts to the page and start configuring options.
 

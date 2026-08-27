@@ -3,6 +3,8 @@ sidebar_position: 1
 ---
 # Blog Default
 
+![blog-default](./img/kandei-blog-default.png)
+
 In this section of the User Guide, we will discuss the creation of blog posts and all the available options for each post, setting up pages to display Blog Listings, Blog Columns, Blog Image Left, Blog Grid, Blog Ajax Load as well as how to change the date format for your posts.
 
 To create a new blog post, go to **Posts > Add New** from your WordPress admin panel. First, you need to enter a title for your blog post in the text field near the top of the screen. Then choose a format for your blog post in **Post Format** in the Summary section on the right side of the screen.
